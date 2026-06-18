@@ -11,6 +11,3 @@
 - task7.py — dict из списка списков
 - task8.py — dict из списка кортежей
 - task9.py — Список кортежей
-
-## Автор
-minaplay08-cyber
