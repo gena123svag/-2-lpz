@@ -12,6 +12,3 @@
 - task8.py — Срез списка
 - task9.py — Срез строки
 - task10.py — Срез с шагом
-
-## Автор
-minaplay08-cyber
