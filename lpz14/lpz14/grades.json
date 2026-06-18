@@ -1,0 +1,52 @@
+[
+  {
+    "student_id": 1,
+    "subject": "Python",
+    "grade": 5
+  },
+  {
+    "student_id": 1,
+    "subject": "Математика",
+    "grade": 4
+  },
+  {
+    "student_id": 2,
+    "subject": "Python",
+    "grade": 5
+  },
+  {
+    "student_id": 2,
+    "subject": "Математика",
+    "grade": 5
+  },
+  {
+    "student_id": 3,
+    "subject": "Python",
+    "grade": 3
+  },
+  {
+    "student_id": 3,
+    "subject": "Математика",
+    "grade": 4
+  },
+  {
+    "student_id": 4,
+    "subject": "Python",
+    "grade": 5
+  },
+  {
+    "student_id": 4,
+    "subject": "Математика",
+    "grade": 5
+  },
+  {
+    "student_id": 5,
+    "subject": "Python",
+    "grade": 4
+  },
+  {
+    "student_id": 5,
+    "subject": "Математика",
+    "grade": 4
+  }
+]

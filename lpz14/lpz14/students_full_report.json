@@ -1,0 +1,87 @@
+[
+  {
+    "student_id": 1,
+    "name": "Иван Петров",
+    "group": "ПИН-231",
+    "grades": [
+      {
+        "subject": "Python",
+        "grade": 5
+      },
+      {
+        "subject": "Математика",
+        "grade": 4
+      }
+    ],
+    "average": 4.5,
+    "status": "отличник"
+  },
+  {
+    "student_id": 2,
+    "name": "Анна Сидорова",
+    "group": "ПИН-231",
+    "grades": [
+      {
+        "subject": "Python",
+        "grade": 5
+      },
+      {
+        "subject": "Математика",
+        "grade": 5
+      }
+    ],
+    "average": 5.0,
+    "status": "отличник"
+  },
+  {
+    "student_id": 3,
+    "name": "Петр Иванов",
+    "group": "ПИН-232",
+    "grades": [
+      {
+        "subject": "Python",
+        "grade": 3
+      },
+      {
+        "subject": "Математика",
+        "grade": 4
+      }
+    ],
+    "average": 3.5,
+    "status": "хорошист"
+  },
+  {
+    "student_id": 4,
+    "name": "Мария Кузнецова",
+    "group": "ПИН-232",
+    "grades": [
+      {
+        "subject": "Python",
+        "grade": 5
+      },
+      {
+        "subject": "Математика",
+        "grade": 5
+      }
+    ],
+    "average": 5.0,
+    "status": "отличник"
+  },
+  {
+    "student_id": 5,
+    "name": "Алексей Смирнов",
+    "group": "ПИН-231",
+    "grades": [
+      {
+        "subject": "Python",
+        "grade": 4
+      },
+      {
+        "subject": "Математика",
+        "grade": 4
+      }
+    ],
+    "average": 4.0,
+    "status": "хорошист"
+  }
+]

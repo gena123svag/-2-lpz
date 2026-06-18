@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Иван",
+    "hours": 160,
+    "rate": 200,
+    "department": "IT"
+  },
+  {
+    "name": "Мария",
+    "hours": 150,
+    "rate": 250,
+    "department": "HR"
+  },
+  {
+    "name": "Петр",
+    "hours": 170,
+    "rate": 180,
+    "department": "IT"
+  },
+  {
+    "name": "Ольга",
+    "hours": 140,
+    "rate": 300,
+    "department": "Sales"
+  },
+  {
+    "name": "Анна",
+    "hours": 180,
+    "rate": 220,
+    "department": "IT"
+  },
+  {
+    "name": "Сергей",
+    "hours": 120,
+    "rate": 150,
+    "department": "Sales"
+  }
+]
