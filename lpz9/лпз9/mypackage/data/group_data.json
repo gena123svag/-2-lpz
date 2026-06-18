@@ -1,0 +1,17 @@
+{
+  "name": "ПИН-231",
+  "curator": "Иванова М.А.",
+  "students_count": 5,
+  "average_grade": 4.4,
+  "students": [
+    {
+      "student_id": "STU0001",
+      "first_name": "Иван",
+      "last_name": "Петров",
+      "age": 19,
+      "email": "ivan.petrov@example.com",
+      "grades": [
+        {
+          "subject": "Python",
+          "grade": 5,
+          "date": 
